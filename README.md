@@ -1,13 +1,14 @@
-# :drop_of_blood: 🩸 Blood Bank Management System 🩸 🩸
+#  Blood Bank Management System 
  A desktop application designed in Java. 
  
  ## :thought_balloon: Objectives
 Our project is based on blood bank management system. It will help in keeping and tracking records for blood samples collected from donor and store the blood in blood bank. Conventional Model of keeping physical directory in blood bank suffers from several issues such as human effort, human errors, access time, and less reliability. For overcoming the hassles related to conventional blood bank directory, our proposed system aims to solve these problems for minimizing the manual work for Blood Bank by providing better record management efficiency with ever increasing records. In the current pandemic situation, we are focusing on segregating the data of Blood Donors based on their Covid History which will help the patients to get their samples according to the priority and convenience.
+## Class Diagram
 
 ![image](https://user-images.githubusercontent.com/75213715/111025385-bfa89280-8409-11eb-9f42-55bd5b3111a5.png)
-
+## Use Case Diagram
 ![image](https://user-images.githubusercontent.com/75213715/111024477-faf49280-8404-11eb-9f79-821b78136794.png)
-
+## Activity Diagram
 ![image](https://user-images.githubusercontent.com/75213715/111024494-1364ad00-8405-11eb-9eea-3c07472a9347.png)
 
 ## 💻 Working Model
